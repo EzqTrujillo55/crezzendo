@@ -1,0 +1,32 @@
+.carousel-caption{
+	bottom:40%;
+}
+
+.carousel-item img{
+	opacity: 0.5;
+}
+
+.carousel-item h2{
+	margin-bottom: 10px;
+}
+
+img{
+	height: 654px;
+}
+
+#menu{
+	background-color: transparent;
+}
+
+.footer{
+	background-color: black;
+	color:white;
+}
+
+i.fab.fa-whatsapp{
+	color: green;
+}
+
+i.fab.fa-instagram{
+	color: purple;
+}
